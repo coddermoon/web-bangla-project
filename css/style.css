@@ -1,0 +1,17 @@
+/* 
+deafult css
+*/
+
+body{
+    background: #ecf0f1;
+}
+
+/* navbar links */
+
+.menu-items a {
+    text-decoration: none;
+    font-size: 1.25rem;
+    color: #fff;
+    font-weight: 600;
+    padding: 0 10px;
+}
